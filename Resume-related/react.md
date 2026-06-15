@@ -1,3 +1,5 @@
+[← Back to README](<../README.md>)
+
 For your experience level and this role, I would focus on  **React rendering, re-rendering, performance, and state management** . That's where interviewers usually go after basic React questions.
 
 # Tier 1 (Highest Probability)
@@ -386,3 +388,7 @@ Your answer:
 10. How would you optimize a real-time chart?
 
 If you can answer those deeply with examples from your own projects, you'll be stronger than most 2-3 YOE frontend candidates because you're answering from production experience rather than textbook definitions.
+
+---
+
+[← Back to README](<../README.md>)

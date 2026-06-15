@@ -1,3 +1,5 @@
+[← Back to README](<../README.md>)
+
 Actually if you had used something like:
 
 * `react-window`
@@ -508,3 +510,7 @@ Render row 200000
 > We used virtualization with server-side lazy loading. The client only cached a small window of rows around the user's viewport. When the user jumped to a distant location, we calculated the target row index from the scroll position and requested that range directly from the server. We never loaded intermediate rows. This allowed us to support hundreds of thousands of packets while keeping memory usage and network traffic under control.
 
 That's exactly how enterprise log viewers, monitoring dashboards, AG Grid Server-Side Row Model, and observability tools work.
+
+---
+
+[← Back to README](<../README.md>)

@@ -1,3 +1,5 @@
+[← Back to README](<../README.md>)
+
 WebSockets is actually where you can stand out because your resume has  **real production experience** , not toy chat-app examples.
 
 If I were interviewing you, these are the questions I'd ask.
@@ -570,3 +572,7 @@ I'd prepare these first:
 10. What if messages arrive faster than UI can process?
 
 These are exactly the kinds of questions I'd expect from a team building React dashboards, monitoring tools, workflow systems, and real-time interfaces like the ones mentioned in the TresVista role.
+
+---
+
+[← Back to README](<../README.md>)

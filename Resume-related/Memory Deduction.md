@@ -1,3 +1,5 @@
+[← Back to README](<../README.md>)
+
 
 
 How did you reduce memory from 2GB to 500MB?
@@ -175,3 +177,7 @@ Those are exactly the skills a Frontend Support Engineer would be expected to ha
 > * We avoided keeping unnecessary historical data in React state and used MobX as the source of truth for streaming data.
 > * We periodically profiled memory usage using Chrome DevTools and React Profiler to ensure memory stabilized during long-running sessions.
 >
+
+---
+
+[← Back to README](<../README.md>)

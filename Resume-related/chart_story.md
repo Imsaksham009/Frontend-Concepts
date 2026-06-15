@@ -1,3 +1,5 @@
+[← Back to README](<../README.md>)
+
 Your chart story is actually becoming quite strong now because it's not just "I rendered a chart". You solved a real-time data visualization problem.
 
 ---
@@ -164,3 +166,7 @@ If I were interviewing you, the answer that would make me think "this guy has ac
 > React wasn't responsible for rendering every data point. MobX handled the streaming data, Chart.js handled canvas rendering, and React only managed the UI state. We also used a sliding window with on-demand data fetching for zoom and pan to keep memory and rendering costs bounded.
 
 That's a much stronger answer than simply saying "we used Chart.js and optimized it."
+
+---
+
+[← Back to README](<../README.md>)

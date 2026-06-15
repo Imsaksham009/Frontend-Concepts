@@ -1,3 +1,5 @@
+[← Back to README](<../README.md>)
+
 Yes. Since you didn't actually write the tests, your goal is  **not to pretend you're a testing expert** . Your goal is to answer confidently at a conceptual level and then steer the conversation back toward the component behavior that you actually built.
 
 ---
@@ -165,3 +167,7 @@ Say:
 > I wasn't the primary owner of the test suite, but I'm familiar with the testing strategy and how the components were validated. My primary contribution was on the component architecture, performance optimization, and real-time data handling side.
 
 That's much safer than inventing test code and getting caught. Most interviewers will respect that answer and move back toward the parts you actually built.
+
+---
+
+[← Back to README](<../README.md>)

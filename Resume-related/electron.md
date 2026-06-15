@@ -1,3 +1,5 @@
+[← Back to README](<../README.md>)
+
 I agree. For this TresVista role, Electron is probably  **low probability** .
 
 Looking at the JD, they're much more likely to focus on:
@@ -214,3 +216,7 @@ If I were the interviewer and saw your resume, I'd spend:
 ```
 
 Electron is much more likely to be a **resume validation topic** than a primary evaluation topic for this role. The Config-Driven Platform and GRL-C3 projects are far more likely to attract deep questioning.
+
+---
+
+[← Back to README](<../README.md>)

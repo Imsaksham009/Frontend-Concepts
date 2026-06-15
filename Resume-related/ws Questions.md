@@ -1,3 +1,5 @@
+[← Back to README](<../README.md>)
+
 Your actual answer is better than the generic "we used batching" answer because it's based on what your system really did.
 
 I'd refine it slightly.
@@ -79,3 +81,7 @@ Instead say:
 > We maintained only the data necessary for the current visualization and treated the backend as the source of truth. Historical data could be fetched on demand when needed.
 
 That sounds much more intentional and scalable.
+
+---
+
+[← Back to README](<../README.md>)

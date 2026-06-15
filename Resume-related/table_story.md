@@ -1,3 +1,5 @@
+[← Back to README](<../README.md>)
+
 This is another strong project, but if an experienced frontend interviewer hears your current explanation, they'll immediately ask:
 
 > Wait, is this virtualization or infinite scrolling?
@@ -225,3 +227,7 @@ You can honestly say:
 > No, but I've built a custom virtualized table handling real-time updates and lazy loading. AG Grid solves many of the same challenges through its built-in row virtualization and data loading mechanisms.
 
 That's a very strong bridge from your experience to their stack.
+
+---
+
+[← Back to README](<../README.md>)

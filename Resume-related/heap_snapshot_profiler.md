@@ -1,3 +1,5 @@
+[← Back to README](<../README.md>)
+
 This is actually a very common frontend interview topic, especially when you're dealing with  **Chart.js** ,  **virtualized tables** ,  **React components** , and memory leaks.
 
 Let's understand it from a practical project perspective.
@@ -777,3 +779,7 @@ The most realistic use cases would be:
    * Find the slowest components using Ranked View.
 
 This is exactly the kind of practical React Profiler usage interviewers expect from a frontend engineer with ~2 years of experience.
+
+---
+
+[← Back to README](<../README.md>)
