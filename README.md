@@ -20,7 +20,7 @@ Deep dives into how JavaScript actually works under the hood.
 | -- | ----- | ------------- |
 | 1  | [The JavaScript Engine](JS/1.%20The%20JavaScript%20Engine.md) | Parsing, JIT compilation, optimization/deoptimization |
 | 2  | [Memory Management](JS/2.%20Memory%20Management.md) | Call stack, heap, stack overflow, garbage collection, memory leaks |
-| 3  | [Async JS + Execution Flow](JS/3.%20Async%20JS%20Func%20+%20execution%20flow.md) | Sync vs async, event loop, micro/macrotasks, `setTimeout`, `requestAnimationFrame` |
+| 3  | [3. Async, Sync, and the Event Loop.md](JS/3.%20Async,%20Sync,%20and%20the%20Event%20Loop.md) | Sync vs async, event loop, micro/macrotasks, `setTimeout`, `requestAnimationFrame` |
 | 4  | [Types and Built-in Objects](JS/4.%20types%20and%20built-in%20Object.md) | Types, coercion, shallow vs deep copy, `Map`/`Set`/`WeakMap`/`WeakSet` |
 | 5  | [Functions](JS/5.%20functions.md) | Invocation patterns, arguments, arrow functions, HOFs, first-class functions, composition |
 | 6  | [`this` Keyword and Context](JS/6.%20this%20Keyword%20and%20Context.md) | The four binding rules, arrow functions, `this` in classes & special cases |
