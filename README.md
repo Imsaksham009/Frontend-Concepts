@@ -29,6 +29,8 @@ Deep dives into how JavaScript actually works under the hood.
 | 9  | [Context vs Scope and Use Strict](JS/9.%20Context%20vs%20Scope%20and%20Use%20Strict.md) | _(placeholder — to be written)_ |
 | 10 | [Prototypes and the Prototype Chain](JS/10.%20Prototypes%20and%20the%20Prototype%20Chain.md) | `__proto__` vs `prototype`, inheritance, `Object.create`, monkey patching |
 | 11 | [OOPs](JS/11.%20OOPs.md) | Classes, getters/setters, static, private fields, inheritance, the four pillars, mixins |
+| 12 | [ES6+ Features](JS/12.%20ES6%2B%20features.md) | Modules, destructuring, rest/spread, default params, template literals, iterators/generators, symbols, proxies |
+| 13 | [Promises in Depth](JS/13.%20Promises%20in%20Depth.md) | Promise states, chaining mechanics, static methods, async/await internals |
 
 ---
 
