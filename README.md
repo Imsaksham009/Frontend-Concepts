@@ -31,6 +31,14 @@ Deep dives into how JavaScript actually works under the hood.
 | 11 | [OOPs](JS/11.%20OOPs.md) | Classes, getters/setters, static, private fields, inheritance, the four pillars, mixins |
 | 12 | [ES6+ Features](JS/12.%20ES6%2B%20features.md) | Modules, destructuring, rest/spread, default params, template literals, iterators/generators, symbols, proxies |
 | 13 | [Promises in Depth](JS/13.%20Promises%20in%20Depth.md) | Promise states, chaining mechanics, static methods, async/await internals |
+| 14 | [Functional Programming](JS/14.%20Func%20Prog.md) | Pure functions, immutability, composition, currying, functors, monads, point-free style, FP vs OOP |
+| 15 | [Error Handling](JS/15.%20errors.md) | Built-in error types, try/catch/finally mechanics, custom errors, propagation, global handling, patterns |
+
+---
+
+## 📋 Quick Reference
+
+- [JavaScript Cheat Sheet](JS-Cheat-Sheet.md) — condensed, at-a-glance reference across execution context, scope, `this`, prototypes, async, and more.
 
 ---
 
